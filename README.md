@@ -6,7 +6,7 @@ This database is published under the Creative Commons Attribution 4.0 Internatio
 You are free to use it in accordance with the terms of use.
 
 This database was created by Japanese Palaeolithic Research Association and contains information on Paleolithic and the Incipient Jomon Period sites in the Japanese archipelago.
-The first edition of the database was created in 2010 and contained 16,771 archaeological sites, and subsequent editions with revisions made on a prefecture-by-prefecture basis are released in this repositly.Subsequent edition contains corrections and additional data not included in the 2010 edition. The ID is the same as that of the 2010 edition.Please use the ID (JPRA-ID) to link to the data.
+The first edition of the database(ver.10.00) was created in 2010 and contained 16,771 archaeological sites, and subsequent editions (ver.2.00) with revisions made on a prefecture-by-prefecture basis are released in this repositly.Subsequent edition contains corrections and additional data not included in the 2010 edition. The ID is the same as that of the 2010 edition. Please use the ID (JPRA-ID) to link to the data.
 
 We expect that this database will be of great use in elucidating Paleolithic culture, as it is one of the few large-scale databases of archaeological sites in the world.
 
