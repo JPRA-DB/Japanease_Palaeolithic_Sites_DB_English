@@ -11,9 +11,12 @@ The first edition of the database(ver.10.00) was created in 2010 and contained 1
 We expect that this database will be of great use in elucidating Paleolithic culture, as it is one of the few large-scale databases of archaeological sites in the world.
 
 Data is provided in Excel files (.xlsx) and comma-separated text files (.csv) for each prefecture.
-The following changes have been made to the contents.
+The following changes have been made to the contents on ver.2.00.
+
 (1) Changed location coordinates to decimal notation in the World Geodetic System (dd.dddddddd)
+
 (2) Document IDs are added.
+
 (3) Reference information of document data is linked.
 
 Distribution maps are not newly created or published.
