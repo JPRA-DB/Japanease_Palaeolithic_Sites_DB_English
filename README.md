@@ -7,12 +7,12 @@
 ## Overview
 This database is an English translation of the items from the "Palaeolithic Sites of the Japanese Archipelago Database" published by the Japanese Palaeolithic Research Association in 2010 (https://palaeolithic.jp/data/index.htm) and is made available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. You are free to use it following the preface and terms of use below.
 
-### 1. This database consists of two versions: the original 2010 version and a revised version.
-### 2. The original version covers the entire Japanese archipelago but contains errors in some site names and location information.
-### 3. The revised version includes corrections and additions of sites not included in the original version for some prefectures and is released sequentially. The revised version may be periodically updated with new data and corrections. When using the revised version or a combination of the original and revised versions, please specify the download date and version name.
-### 4. It may not always be possible for the administrators to check for reported errors in the original and revised versions. Also, merge requests for this dataset are not accepted.
-### 5. The dataset are provided in comma-separated text (.csv) formats.
-### 6. Distribution maps are not created or published.
+#### 1. This database consists of two versions: the original 2010 version and a revised version.
+#### 2. The original version covers the entire Japanese archipelago but contains errors in some site names and location information.
+#### 3. The revised version includes corrections and additions of sites not included in the original version for some prefectures and is released sequentially. The revised version may be periodically updated with new data and corrections. When using the revised version or a combination of the original and revised versions, please specify the download date and version name.
+#### 4. It may not always be possible for the administrators to check for reported errors in the original and revised versions. Also, merge requests for this dataset are not accepted.
+#### 5. The dataset are provided in comma-separated text (.csv) formats.
+#### 6. Distribution maps are not created or published.
 
 ## Terms of Use for the "Palaeolithic Sites of the Japanese Archipelago" Database by the Japanese Palaeolithic Research Association
 
