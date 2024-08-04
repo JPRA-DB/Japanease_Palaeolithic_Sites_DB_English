@@ -2,7 +2,7 @@
 ※日本旧石器時代遺跡データベースをGithub上で公開する際のイメージを回覧するためのテストページです。
 
 
-
+![maps](https://github.com/JPRA-DB/test_English-DB/blob/main/tohoku_map.jpg "Distribution map of Palaeolithic sites of Tohoku resion")
 
 ## Overview
 This database is an English translation of the items from the "Palaeolithic Sites of the Japanese Archipelago Database" published by the Japanese Palaeolithic Research Association in 2010 (https://palaeolithic.jp/data/index.htm) and is made available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. You are free to use it following the preface and terms of use below.
@@ -46,4 +46,4 @@ The information created and published by the Japanese Palaeolithic Research Asso
    - These terms are compatible with the Creative Commons Attribution 4.0 International license (CC BY), and content subject to these terms can also be used under CC BY.
 
 
-![maps](https://github.com/JPRA-DB/test_English-DB/blob/main/tohoku_map.jpg "Distribution map of Palaeolithic sites of Tohoku resion")
+
