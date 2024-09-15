@@ -1,5 +1,6 @@
 ---
 layout: home
+title:About
 ---
 
 ## Overview
@@ -46,5 +47,3 @@ The information created and published by the Japanese Palaeolithic Research Asso
    - These terms were established on June 23, 2018, based on the Government Standard Terms of Use (Version 2.0). These terms may be subject to future changes.
    - These terms are compatible with the Creative Commons Attribution 4.0 International license (CC BY), and content subject to these terms can also be used under CC BY.
 
-
-hellow, world!
