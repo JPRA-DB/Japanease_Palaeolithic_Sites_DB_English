@@ -1,3 +1,4 @@
+html: true, 
 <head>
 layout: default
 show_downloads: true
