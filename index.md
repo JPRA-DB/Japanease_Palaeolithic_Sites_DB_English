@@ -1,4 +1,8 @@
-html: true, 
+// マークダウンの基本設定
+const markdown_setting = window.markdownit({
+  html: true, // htmlタグを有効にする
+  breaks: true, // md内の改行を<br>に変換
+});
 <head>
 layout: default
 show_downloads: true
