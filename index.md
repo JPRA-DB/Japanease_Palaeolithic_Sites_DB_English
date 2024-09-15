@@ -1,6 +1,7 @@
 ---
-layout: home
-title: terms of Use and Links
+layout: default
+title: Terms of Use and Links
+description: ["Download our Data Base from Github"](https://github.com/JPRA-DB/Japanease_Palaeolithic_Sites_DB_English)
 ---
 ## Welcome to GitHub Pages of Japanese Palaeolithic Sites Data Base
 ## Overview
