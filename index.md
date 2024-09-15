@@ -3,7 +3,7 @@ layout: default
 show_downloads: true
 title: Japanese Palaeolithic Sites Data Base
 ---
-
+<meta name="google-site-verification" content="DFsiXItTvbyG0wiruvzcynuft6_n4I_yb_xkeG9ONSQ" />
 ## Terms of Use and Links
 ## Overview
 This database is an English translation of the items from the ["Palaeolithic Sites of the Japanese Archipelago Database" published by the Japanese Palaeolithic Research Association (日本旧石器学会）in 2010](https://palaeolithic.jp/data/index.htm) and is made available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. You are free to use it following the preface and terms of use below.
