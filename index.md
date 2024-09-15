@@ -2,7 +2,7 @@
 layout: home
 title: terms of Use and Links
 ---
-
+## Welcome to GitHub Pages of Japanese Palaeolithic Sites Data Base
 ## Overview
 This database is an English translation of the items from the ["Palaeolithic Sites of the Japanese Archipelago Database" published by the Japanese Palaeolithic Research Association (日本旧石器学会）in 2010](https://palaeolithic.jp/data/index.htm) and is made available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. You are free to use it following the preface and terms of use below.
 The Japanese version can be downloaded from https://www.palaeolithic.jp/data/index.htm.
