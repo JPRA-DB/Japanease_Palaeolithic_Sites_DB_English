@@ -1,14 +1,8 @@
-// マークダウンの基本設定
-const markdown_setting = window.markdownit({
-  html: true, // htmlタグを有効にする
-  breaks: true, // md内の改行を<br>に変換
-});
-<head>
+---
 layout: default
 show_downloads: true
 title: Japanese Palaeolithic Sites Data Base
-<meta name="google-site-verification" content="DFsiXItTvbyG0wiruvzcynuft6_n4I_yb_xkeG9ONSQ" />
-</head>
+---
 
 ## Terms of Use and Links
 ## Overview
