@@ -1,6 +1,6 @@
 ---
 layout: home
-title:About
+title: terms of Use and Links
 ---
 
 ## Overview
