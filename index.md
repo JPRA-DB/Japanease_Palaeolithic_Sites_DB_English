@@ -1,5 +1,6 @@
 ---
-layout: Home
+layout: default
+show_downloads: true
 title: Terms of Use and Links
 ---
 
