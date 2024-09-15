@@ -2,7 +2,6 @@
 layout: default
 show_downloads: true
 title: Japanese Palaeolithic Sites Data Base
-<meta name="google-site-verification" content="DFsiXItTvbyG0wiruvzcynuft6_n4I_yb_xkeG9ONSQ" />
 ---
 
 ## Terms of Use and Links
