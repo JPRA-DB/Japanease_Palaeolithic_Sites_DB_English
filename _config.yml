@@ -1,4 +1,4 @@
-theme: Cayman
+theme: minimal
 lsi: false
 safe: true
 source: [your repo's top level directory]
